@@ -14,7 +14,7 @@ To start the application, use the following command:
 dotnet run
 ```
 
-Navigate to `https://localhost:5001/swagger` to access the Swagger UI and interact with the API.
+Navigate to `https://localhost:5126/swagger/index.html` to access the Swagger UI and interact with the API.
 
 ### 3. API Endpoints
 
